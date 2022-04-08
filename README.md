@@ -1,5 +1,5 @@
 # Pagina_Informativa
 
-Practicando maquetado con html y css
+Practicando maquetado con html y css de landing page
 
-https://xein-dev.github.io/Pagina_Informativa/
+https://Suarez-dev.github.io/Pagina_Informativa/
